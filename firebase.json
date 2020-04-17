@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site":"myaurapp",
+    "site":"dsc-charusat",
     "public": "dist",
     "rewrites": [ {
         "source": "**",
