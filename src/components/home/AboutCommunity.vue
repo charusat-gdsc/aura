@@ -18,6 +18,15 @@
               class="ma-0 google-font mb-2"
               style="border-radius:5px;text-transform: capitalize;color:white"
             >Meetup Page</v-btn>&nbsp;
+            <v-btn
+              v-if="checkExistance(config.generalConfig.discordLink,0)"
+              :href="config.generalConfig.discordLink"
+              target="_blank"
+              raised
+              color
+              class="ma-0 google-font mb-2"
+              style="border-radius:5px;text-transform: capitalize;color:#4C4A78"
+            >Discord Server</v-btn>&nbsp;
             <br />
             <router-link
               to="/about"
