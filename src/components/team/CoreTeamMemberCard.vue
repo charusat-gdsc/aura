@@ -15,7 +15,6 @@
                 <p class="mt-1 mb-0 google-font mt-0" style="font-size:80%">{{data.designation | summery(20)}}</p>
                 <socialMediaDetails :data="data.socialLinks"/>
           </div>
-          
       </template>
 
       <v-card :class="theme.isDark?'grey darken-3':'white'">

@@ -85,7 +85,7 @@ export default {
                           );
                           this.isLoading = false;
                           this.buttonText = "Allowed";
-                        })
+                        })      
                         .catch(err => {
                           this.token = err;
                           this.isLoading = false;

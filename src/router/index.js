@@ -8,7 +8,7 @@ const routes = [{
     name: 'Home',
     component: () => import( /* webpackChunkName: "home" */ '../views/Home.vue'),
     meta: {
-      title: 'Home ',
+      title: 'Home - DSC CHARUSAT',
       color: '#0277bd',
     }
   },
@@ -17,7 +17,7 @@ const routes = [{
     name: 'About',
     component: () => import( /* webpackChunkName: "about" */ '../views/About.vue'),
     meta: {
-      title: 'About ',
+      title: 'About - DSC CHARUSAT',
       color: '#0277bd',
     }
   },
@@ -26,7 +26,7 @@ const routes = [{
     name: 'Team',
     component: () => import( /* webpackChunkName: "team" */ '../views/Team.vue'),
     meta: {
-      title: 'Team ',
+      title: 'Team - DSC CHARUSAT',
       color: '#0277bd',
     }
   },
@@ -35,7 +35,7 @@ const routes = [{
     name: 'Team Details',
     component: () => import( /* webpackChunkName: "team-details" */ '../views/Team/TeamDetails.vue'),
     meta: {
-      title: 'Team Details',
+      title: 'Team Details - DSC CHARUSAT',
       color: '#0277bd',
     }
   },
@@ -44,7 +44,7 @@ const routes = [{
     name: 'Events',
     component: () => import( /* webpackChunkName: "events" */ '../views/Events.vue'),
     meta: {
-      title: 'Events ',
+      title: 'Events - DSC CHARUSAT',
       color: '#0277bd',
     }
   },
@@ -53,7 +53,7 @@ const routes = [{
     name: 'Events-Details',
     component: () => import( /* webpackChunkName: "events-details" */ '../views/Events/EventDetails.vue'),
     meta: {
-      title: 'Events ',
+      title: 'Events - DSC CHARUSAT',
       color: '#0277bd',
     }
   },
@@ -62,7 +62,7 @@ const routes = [{
     name: 'Speakers',
     component: () => import( /* webpackChunkName: "speakers" */ '../views/Speakers.vue'),
     meta: {
-      title: 'Speakers ',
+      title: 'Speakers - DSC CHARUSAT',
       color: '#0277bd',
     }
   },
@@ -71,7 +71,7 @@ const routes = [{
     name: 'Speakers-Details',
     component: () => import( /* webpackChunkName: "speakers-details" */ '../views/Speakers/SpeakerDetails.vue'),
     meta: {
-      title: 'Speakers ',
+      title: 'Speakers - DSC CHARUSAT',
       color: '#0277bd',
     }
   },
@@ -80,7 +80,7 @@ const routes = [{
     name: 'Volunteers',
     component: () => import( /* webpackChunkName: "volunteer" */ '../views/Volunteer.vue'),
     meta: {
-      title: 'Volunteers ',
+      title: 'Volunteers - DSC CHARUSAT',
       color: '#0277bd',
     }
   },
@@ -89,7 +89,7 @@ const routes = [{
     name: 'Partners',
     component: () => import( /* webpackChunkName: "partners" */ '../views/Partners.vue'),
     meta: {
-      title: 'Partners ',
+      title: 'Partners - DSC CHARUSAT',
       color: '#0277bd',
     }
   },
@@ -98,7 +98,7 @@ const routes = [{
     name: 'Contact',
     component: () => import( /* webpackChunkName: "contact" */ '../views/Contact.vue'),
     meta: {
-      title: 'Contact ',
+      title: 'Contact - DSC CHARUSAT',
       color: '#0277bd',
     }
   },
@@ -107,7 +107,7 @@ const routes = [{
     name: 'Blogs',
     component: () => import( /* webpackChunkName: "blogs" */ '../views/Blogs.vue'),
     meta: {
-      title: 'Blogs ',
+      title: 'Blogs - DSC CHARUSAT',
       color: '#0277bd',
     }
   },
