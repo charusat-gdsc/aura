@@ -22,10 +22,10 @@
               v-if="checkExistance(config.generalConfig.discordLink,0)"
               :href="config.generalConfig.discordLink"
               target="_blank"
-              raised
+              outlined
               color
               class="ma-0 google-font mb-2"
-              style="border-radius:5px;text-transform: capitalize;color:#4C4A78"
+              style="border-radius:5px;text-transform: capitalize;color:white"
             >Discord Server</v-btn>&nbsp;
             <br />
             <router-link
